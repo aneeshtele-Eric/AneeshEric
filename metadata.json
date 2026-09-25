@@ -1,0 +1,6 @@
+{
+  "name": "Embratur Tourism Intelligence & Trend Analytics",
+  "description": "Executive dashboard tracking 10 years of international inbound tourist arrivals to Brazil across entry gateways, modalities, origins, and seasonality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
